@@ -3,6 +3,10 @@
 A vanilla TypeScript project using the WebGi engine to showcase a Tesla Roadster, bundled with Parcel.
 Deployed on Vercel: [Tesla Roadster WebGi](https://tesla-roadster-webgi.vercel.app/)
 
+### Demo
+![Tesla Roadster WebGi](https://user-images.githubusercontent.com/68457029/134772013-3b3b3b7b-3b7b-4b7b-8b7b-3b7b3b7b3b7b.gif)
+
+
 ## About WebGi
 WebGi is a powerful and flexible 3D engine designed for creating immersive 3D experiences in the web. For more information, visit the [WebGi website](https://webgi.xyz/).
 
