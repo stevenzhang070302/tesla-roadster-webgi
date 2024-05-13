@@ -4,7 +4,8 @@ A vanilla TypeScript project using the WebGi engine to showcase a Tesla Roadster
 Deployed on Vercel: [Tesla Roadster WebGi](https://tesla-roadster-webgi.vercel.app/)
 
 ### Demo
-![Tesla Roadster WebGi](https://user-images.githubusercontent.com/68457029/134772013-3b3b3b7b-3b7b-4b7b-8b7b-3b7b3b7b3b7b.gif)
+![Tesla Roadster WebGi](https://raw.githubusercontent.com/stevenzhang070302/tesla-roadster-webgi/main/assets/Tesla_demo_1.png)
+![Tesla Roadster WebGi](https://raw.githubusercontent.com/stevenzhang070302/tesla-roadster-webgi/main/assets/Tesla_demo_2.png)
 
 
 ## About WebGi
