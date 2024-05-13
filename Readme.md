@@ -1,6 +1,7 @@
 # Tesla Roadster WebGi Project
 
 A vanilla TypeScript project using the WebGi engine to showcase a Tesla Roadster, bundled with Parcel.
+Deployed on Vercel: [Tesla Roadster WebGi](https://tesla-roadster-webgi.vercel.app/)
 
 ## About WebGi
 WebGi is a powerful and flexible 3D engine designed for creating immersive 3D experiences in the web. For more information, visit the [WebGi website](https://webgi.xyz/).
@@ -13,7 +14,7 @@ Make sure you have Node.js and npm installed. You can download them from [Node.j
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tesla-roadster-webgi.git
+   git clone https://github.com/stevenzhang070302/tesla-roadster-webgi.git
    cd tesla-roadster-webgi
 2. Install the dependencies:
    ```bash
@@ -21,7 +22,7 @@ Make sure you have Node.js and npm installed. You can download them from [Node.j
 3. Start the development server:
    ```bash
     npm run dev
-4. Open your browser and navigate to `http://localhost:1234` to see the project running.
+4. Open your browser and navigate to `http://localhost:XXXX` to see the project running.
 
 ### Assets
 The assets for the project, including the Tesla Roadster model and textures, are stored in the assets directory. 
